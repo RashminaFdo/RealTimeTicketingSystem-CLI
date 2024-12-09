@@ -34,7 +34,7 @@ public class Customer implements Runnable {
             System.out.println("[Customer] Ticket ID: " + ticket.getTicketId() + " was bought for event: " + eventName);
 
             try {
-                Thread.sleep(1000 / retrievalRate);
+                Thread.sleep(1000 / retrievalRate);  // Simulate the time delay between customer actions
             } catch (InterruptedException e) {
                 Thread.currentThread().interrupt();
             }

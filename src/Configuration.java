@@ -8,7 +8,6 @@ public class Configuration implements Serializable {
     private int customerRetrievalRate;
     private int maxTicketCapacity;
 
-    // Getters and Setters for each field
     public int getTotalTickets() {
         return totalTickets;
     }
