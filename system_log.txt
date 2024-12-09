@@ -1,0 +1,75 @@
+Ticket ID 1 added to the pool by Vendor.
+Customer booked ticket ID: 1 for event: da
+Ticket ID 2 added to the pool by Vendor.
+Customer booked ticket ID: 2 for event: da
+Ticket ID 3 added to the pool by Vendor.
+Customer booked ticket ID: 3 for event: da
+Ticket ID 4 added to the pool by Vendor.
+Customer booked ticket ID: 4 for event: da
+Ticket ID 5 added to the pool by Vendor.
+Customer booked ticket ID: 5 for event: da
+Ticket ID 6 added to the pool by Vendor.
+Customer booked ticket ID: 6 for event: da
+Ticket ID 7 added to the pool by Vendor.
+Customer booked ticket ID: 7 for event: da
+Ticket ID 8 added to the pool by Vendor.
+Customer booked ticket ID: 8 for event: da
+Ticket ID 9 added to the pool by Vendor.
+Customer booked ticket ID: 9 for event: da
+Ticket ID 10 added to the pool by Vendor.
+Customer booked ticket ID: 10 for event: da
+Ticket ID 1 added to the pool by Vendor.
+Ticket ID 2 added to the pool by Vendor.
+Ticket ID 3 added to the pool by Vendor.
+Ticket ID 4 added to the pool by Vendor.
+Ticket ID 5 added to the pool by Vendor.
+Ticket ID 6 added to the pool by Vendor.
+Ticket ID 7 added to the pool by Vendor.
+Ticket ID 8 added to the pool by Vendor.
+Ticket ID 9 added to the pool by Vendor.
+Ticket ID 10 added to the pool by Vendor.
+Ticket ID 1 added to the pool by Vendor.
+Ticket ID 2 added to the pool by Vendor.
+Ticket ID 3 added to the pool by Vendor.
+Ticket ID 4 added to the pool by Vendor.
+Ticket ID 5 added to the pool by Vendor.
+Ticket ID 1 added to the pool by Vendor.
+Ticket ID 2 added to the pool by Vendor.
+Ticket ID 3 added to the pool by Vendor.
+Ticket ID 4 added to the pool by Vendor.
+Ticket ID 5 added to the pool by Vendor.
+Ticket ID 1 added to the pool by Vendor.
+Ticket ID 2 added to the pool by Vendor.
+Ticket ID 3 added to the pool by Vendor.
+Ticket ID 4 added to the pool by Vendor.
+Ticket ID 5 added to the pool by Vendor.
+Ticket ID 1 added to the pool by Vendor.
+Ticket ID 2 added to the pool by Vendor.
+Ticket ID 3 added to the pool by Vendor.
+Ticket ID 4 added to the pool by Vendor.
+Ticket ID 5 added to the pool by Vendor.
+Ticket ID 1 added to the pool by Vendor.
+Ticket ID 2 added to the pool by Vendor.
+Ticket ID 3 added to the pool by Vendor.
+Ticket ID 4 added to the pool by Vendor.
+Ticket ID 5 added to the pool by Vendor.
+Ticket ID 1 added to the pool by Vendor.
+Ticket ID 2 added to the pool by Vendor.
+Ticket ID 3 added to the pool by Vendor.
+Ticket ID 4 added to the pool by Vendor.
+Ticket ID 5 added to the pool by Vendor.
+Ticket ID 1 added to the pool by Vendor.
+Ticket ID 2 added to the pool by Vendor.
+Ticket ID 3 added to the pool by Vendor.
+Ticket ID 4 added to the pool by Vendor.
+Ticket ID 5 added to the pool by Vendor.
+Ticket ID 1 added to the pool by Vendor.
+Ticket ID 2 added to the pool by Vendor.
+Ticket ID 3 added to the pool by Vendor.
+Ticket ID 4 added to the pool by Vendor.
+Ticket ID 5 added to the pool by Vendor.
+Ticket ID 6 added to the pool by Vendor.
+Ticket ID 7 added to the pool by Vendor.
+Ticket ID 8 added to the pool by Vendor.
+Ticket ID 9 added to the pool by Vendor.
+Ticket ID 10 added to the pool by Vendor.
